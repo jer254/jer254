@@ -1,7 +1,10 @@
-![MasterHead](https://github.com/jer254/hostedimage/blob/main/Jeremiah%20Ndegwa%20(1).gif)
 
-<h1 align="center">Hello 👋</h1>
-<h3 align="center">I am a Bsc Computer Science graduate and an aspiring Software Engineer based in Kenya.</h3>
+
+<p align="center">
+  <img src="https://github.com/jer254/hostedimage/blob/main/Jeremiah%20Ndegwa%20(1).gif" alt="animated" />
+</p>
+<h1 align="left">Hello 👋</h1>
+<h3 align="left">I am a Bsc Computer Science graduate and an aspiring Software Engineer based in Kenya.</h3>
 
 
 
