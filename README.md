@@ -4,18 +4,13 @@
   <img src="https://github.com/jer254/hostedimage/blob/main/Jeremiah%20Ndegwa%20(1).gif" alt="animated" />
 </p>
 <h1 align="left">Hello 👋</h1>
-<h3 align="left">I am a Bsc Computer Science graduate and an aspiring Software Engineer based in Kenya.</h3>
+<h3 align="left">I am a Bsc Computer Science graduate and a Software Developer based in Kenya.</h3>
 
 
-
-
-- 🔭 I’m currently studying under the **ALX Software Engineering programme**
-
-- 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **cool lifechanging projects.**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **web development,ui design,graphic design**
 
 - 📫 How to reach me **ndegwajeremiah8842@gmail.com**
 
